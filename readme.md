@@ -1,2 +1,2 @@
 ## Hello GitHub
--i am adding this for secondBranch
+-i am adding this for secondBranc
