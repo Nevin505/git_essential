@@ -1,3 +1,3 @@
 ## Hello GitHub
-another line from devBranch1
--i am adding this for secondBranch
+another nevin from devBarnch2
+-i am adding this for secondBran
